@@ -52,4 +52,4 @@ We use Netlify for free domain.
 First you must login Netlify by your github/ gitlab/ bitbucket account.
 Then click new site from git and select github/ gitlab/ bitbucket where you save your code.
 If you save your code on github so you select github and confirm and choose a repo you want to deploy and use defaut setting and select deploy button.
-This is my demo website: https://splendorous-horse-0a12b7.netlify.app/
+**This is my demo website**: https://splendorous-horse-0a12b7.netlify.app/
