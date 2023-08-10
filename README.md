@@ -46,7 +46,7 @@ Tourism promotion website
 │  └─ Thang canh Mien Tay.html
 └─ Xoai cat Hoa Loc.html
 ```
-This is a simple website for tourism promotion I create with html and css.
+This is a simple website for tourism promotion. I create with html and css.
 **How to deploy this website?**.
 We use Netlify for free domain.
 First you must login Netlify by your github/ gitlab/ bitbucket account.
